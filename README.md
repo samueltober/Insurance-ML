@@ -1,2 +1,6 @@
 # Tree-based-Machine-Learning-in-Insurance-Modelling
-Supplementary R code for bachelor thesis (found at: link)
+This github is a suplemental R repository to the bachelor thesis: "Tree-Based Statistical Learning Models with Applications in Insurance Pricing", which can be found at: link. Below is a description of all the R functions in this repository.
+
+* Function 1
+* Function 2
+* Function 3
